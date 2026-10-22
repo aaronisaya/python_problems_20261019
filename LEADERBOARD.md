@@ -2,7 +2,7 @@
 
 **Week of October 19, 2026**
 
-*Last updated: October 22, 2026 at 09:23 CT*
+*Last updated: October 22, 2026 at 09:33 CT*
 
 Each problem is worth 10 points, for a possible total of **100 points**.
 Unattempted problems contribute 0 points. The latest graded score for
@@ -11,8 +11,8 @@ each problem is used, even across multiple pull requests.
 | Rank | GitHub username | Solved | Attempted | Total points |
 |---:|---|---:|---:|---:|
 | 1 | `mtully-oss` | 10/10 | 10/10 | 100.00/100 |
-| 2 | `anrilotte` | 2/10 | 2/10 | 20.00/100 |
-| 2 | `maileeeeeeeeee` | 2/10 | 2/10 | 20.00/100 |
+| 2 | `maileeeeeeeeee` | 3/10 | 3/10 | 30.00/100 |
+| 3 | `anrilotte` | 2/10 | 2/10 | 20.00/100 |
 | 4 | `aaronisaya` | 1/10 | 1/10 | 10.00/100 |
 | 4 | `AlienMiylla` | 1/10 | 2/10 | 10.00/100 |
 | 4 | `nicholastaylor123` | 1/10 | 1/10 | 10.00/100 |
